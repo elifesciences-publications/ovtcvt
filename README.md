@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Wilming et al., "Entorhinal cortex receptive fields are modulated by spatial attention, even without movement". eLife, 2018. http://dx.doi.org/10.7554/eLife.31745
+
 # ovtcvt
 Python functions for analysis of the overt covert project
 
